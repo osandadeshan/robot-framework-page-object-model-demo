@@ -15,7 +15,7 @@ ${USER_DOES_NOT_EXIST_ERROR_MESSAGE}     User does not exist.
 
 *** Test Cases ***
 Verify That An Unregistered Person Cannot Login To The Application
-    [Documentation]    TVerify that an unregistered person cannot login to the application
+    [Documentation]    Verify that an unregistered person cannot login to the application
     [tags]  Regression
     
     Open Browser To Login Page
